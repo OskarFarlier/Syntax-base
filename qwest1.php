@@ -64,8 +64,8 @@
                                     "userimg" => "img/no-user.jpg",
                                     "username" => "Josh Doe",
                                     "userDate" => "12/10/2025",
-                                    "userText" => ' Lorem ipsum dolor sit amet,
-                                     consectetur adipisicing elit. Saepe aspernatur, ullam doloremque deleniti, sequi obcaecati.',
+                                    "userText" => " Lorem ipsum dolor sit amet,
+                                     consectetur adipisicing elit. Saepe aspernatur, ullam doloremque deleniti, sequi obcaecati.",
                                 ],
                                 [
                                     "userimg" => "img/no-user.jpg",
